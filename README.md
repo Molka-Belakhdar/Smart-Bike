@@ -28,7 +28,7 @@ smartbike/
 
 1. Télécharger WAMP depuis [wampserver.com](https://www.wampserver.com/)
 2. Installer et lancer WAMP
-3. L'icône dans la barre des tâches doit devenir **verte** ✅
+3. L'icône dans la barre des tâches doit devenir **verte**
 
 ---
 
